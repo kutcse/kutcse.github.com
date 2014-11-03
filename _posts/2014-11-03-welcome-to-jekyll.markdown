@@ -1,25 +1,10 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-11-03 23:05:43
-categories: jekyll update
----
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+#About C++
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+**탄생과 역사**
+1980년대까지 전세계적으로 가장 많은 사람들에게 사랑을 받고 가장 널리 사용된 프로그래밍 전문 언어는 C이다. 하지만 C언어 역시 한계에 부딪치게 되었고 이에 따라 고도로 복잡한 프로그램을 관리하기 위하여 C++가 탄생하게 되었다.
 
-Jekyll also offers powerful support for code snippets:
+**객체지향 프로그래밍(OOP : Object Oriented Programing)**
+C++는 흔히 객체지향적 언어라고 한다. 객체 지향 프로그래밍은 새로운 방식의 프로그래밍 접근 방법이다. 프로그래밍이 탄생한 이후로 그 방식은 많은 변화를 겪었는데, 프로그래밍이 현격하게 다른 변혁을 겪을 때마다 새로운 접근 방식이 나타나 프로그래머가 그 전 단계보다 훨씬 더 복잡해진 프로그램을 처리할 수 있도록 도왔다. 예전의 구조적인 프로그래밍은 복잡한 프로그램 작성 시 프로그램의 규모가 일정 한계를 넘으면 가끔씩 실패하는 경우를 제외하고 상당히 우수한 기능을 해왔지만 그 보다 좀 더 복잡한 프로그램을 쓸 수 있는 새로운 프로그래밍 방식이 필요했다. 그래서 탄생한 것이 객체 지향 프로그래밍이다. 이는 구조적인 프로그래밍에서 사용되는 개념들을 최대한 활용하여 종전과는 다른 방식으로 이러한 개념을 엮어내는 역할을 한다.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+**특징**
+C의 대부분의 특징을 포함하고 있으므로 시스템 프로그래밍에 적합할 뿐만 아니라 클래스, 연산자 중복, 가상 함수 등과 같은 특징을 갖추고 있어 객체 지향 프로그래밍에 적합하다. 또한 C와 일치하는 부분이 C++를 널리 대중적인 언어가 되는데 도움을 주었다.
